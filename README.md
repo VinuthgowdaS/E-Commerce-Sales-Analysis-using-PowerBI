@@ -5,6 +5,7 @@ Power BI enables comprehensive e-commerce sales analysis by integrating data fro
 The dashboard includes key performance indicators (KPI) such as Total Profit, Total Sales, Total Quantity, and shipping type, Total Customers, as well as a sales by segment, category, and Market, Filters, Donut Charts, pie chart, Top Profiting Product’s, Top Customer’s.
 
 STEPS TO BE FOLLOWED:
+
 1.Load the Data
 
 2.Dropping unnecessary columns, Dropping duplicate rows, and Cleaning individual rows.
@@ -12,6 +13,7 @@ STEPS TO BE FOLLOWED:
 3.Cleaned the data, and it is ready for developing the Interactive Dashboard.
 
 REQUIREMENTS:
+
 PowerBI Desktop.
 
 Excel Data Set.
