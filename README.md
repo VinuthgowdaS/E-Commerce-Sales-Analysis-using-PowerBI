@@ -6,12 +6,16 @@ The dashboard includes key performance indicators (KPI) such as Total Profit, To
 
 STEPS TO BE FOLLOWED:
 1.Load the Data
+
 2.Dropping unnecessary columns, Dropping duplicate rows, and Cleaning individual rows.
+
 3.Cleaned the data, and it is ready for developing the Interactive Dashboard.
 
 REQUIREMENTS:
-PowerBI Desktop
-Excel Data Set
+PowerBI Desktop.
+
+Excel Data Set.
+
 Basic knowledge about powerbi for data manipulation,cleaning and preparing Dashboard.
 
 
